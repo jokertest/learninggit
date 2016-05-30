@@ -2,4 +2,7 @@ This is a test file
 Adding new line
 
 Adding again the line.
+<<<<<<< HEAD
 stashing b2a
+=======
+>>>>>>> origin/master

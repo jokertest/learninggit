@@ -10,4 +10,8 @@ public class MainClass {
 
 	}
 
+	public static void windowsMethod() {
+		System.out.println("Edited on Windows");
+	}
+
 }
